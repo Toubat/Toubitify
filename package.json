@@ -1,0 +1,23 @@
+{
+  "name": "Toubitify",
+  "version": "1.0.0",
+  "description": "HTML-CSS Project",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Toubat/Toubitify.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Toubat/Toubitify/issues"
+  },
+  "homepage": "https://github.com/Toubat/Toubitify#readme",
+  "devDependencies": {
+    "parcel-bundler": "^1.12.5"
+  }
+}
